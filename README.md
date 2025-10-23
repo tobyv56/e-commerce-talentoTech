@@ -1,14 +1,14 @@
-#🛒e-commerce-talentoTech
+# 🛒e-commerce-talentoTech
 
 ##tema del proyecto
 proyecto inicial desarrollado con java y enfocado en la aplicacion a la programacion orientada a objetos(POO) para simular
 la logica un sistema de productos de un supermercado 
 
-##🖥️tecnologias utilizadas
+## 🖥️tecnologias utilizadas
 lenguaje = Java 
 entorno de desarrollo = IntelliJ IDEA
 
-##sobre el proyecto
+## sobre el proyecto
 el proyecto compone sobre un login que el usuario puede elegir que hacer, las opciones son:
 
   1- Consultar Producto
@@ -21,19 +21,19 @@ el proyecto compone sobre un login que el usuario puede elegir que hacer, las op
 
   5- Finalizar
 
-###🔍Consultar Producto
+### 🔍Consultar Producto
 
 busca el producto por su nombre deseado por el usuario a una array
 
-###✅Agregar Producto
+### ✅Agregar Producto
 
 agrega el producto deseado como por el usuario, agregando sus atributos de (producto) como nombre,precio y stock a una array
 
-##✏️#Modificar Producto
+### ✏️#Modificar Producto
 
 el usuario puede modificar cualquier atributo del producto
 
-###🗑️Eliminar Producto
+### 🗑️Eliminar Producto
 
 el usuario puede eliminar cualquier producto del array buscandolo por el nombre
 
