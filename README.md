@@ -30,7 +30,7 @@ busca el producto por su nombre deseado por el usuario a una array
 
 agrega el producto deseado como por el usuario, agregando sus atributos de (producto) como nombre,precio y stock a una array
 
-## ✏️#Modificar Producto
+### ✏️Modificar Producto
 
 el usuario puede modificar cualquier atributo del producto
 
