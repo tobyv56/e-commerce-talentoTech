@@ -6,6 +6,7 @@ la logica un sistema de productos de un supermercado
 
 ## 🖥️tecnologias utilizadas
 lenguaje = Java 
+
 entorno de desarrollo = IntelliJ IDEA
 
 ## sobre el proyecto
