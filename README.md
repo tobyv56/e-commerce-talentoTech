@@ -1,6 +1,6 @@
 # 🛒e-commerce-talentoTech
 
-##tema del proyecto
+## tema del proyecto
 proyecto inicial desarrollado con java y enfocado en la aplicacion a la programacion orientada a objetos(POO) para simular
 la logica un sistema de productos de un supermercado 
 
